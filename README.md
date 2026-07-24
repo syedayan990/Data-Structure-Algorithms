@@ -18,10 +18,12 @@ DSA practice
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
