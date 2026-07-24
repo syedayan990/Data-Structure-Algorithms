@@ -20,13 +20,16 @@ DSA practice
 | ------- |
 | [0031-next-permutation](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
