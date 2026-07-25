@@ -6,6 +6,7 @@ DSA practice
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 ## Math
@@ -23,6 +24,7 @@ DSA practice
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
