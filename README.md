@@ -9,6 +9,7 @@ DSA practice
 | [0001-two-sum](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@ DSA practice
 | [0013-roman-to-integer](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
@@ -50,6 +52,7 @@ DSA practice
 | [0125-valid-palindrome](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -100,4 +103,8 @@ DSA practice
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
