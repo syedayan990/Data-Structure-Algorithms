@@ -30,6 +30,7 @@ DSA practice
 | [0088-merge-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -43,6 +44,7 @@ DSA practice
 | [0075-sort-colors](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -63,6 +65,7 @@ DSA practice
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
