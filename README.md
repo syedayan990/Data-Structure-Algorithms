@@ -26,6 +26,7 @@ DSA practice
 | [0033-search-in-rotated-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -64,5 +65,6 @@ DSA practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
