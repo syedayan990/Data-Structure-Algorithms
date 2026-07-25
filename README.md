@@ -21,6 +21,7 @@ DSA practice
 | [0013-roman-to-integer](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
@@ -91,4 +92,12 @@ DSA practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
