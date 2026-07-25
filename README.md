@@ -20,12 +20,14 @@ DSA practice
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -36,4 +38,8 @@ DSA practice
 | ------- |
 | [0075-sort-colors](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
