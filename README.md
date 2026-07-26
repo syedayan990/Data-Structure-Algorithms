@@ -16,6 +16,7 @@ DSA practice
 | [0009-palindrome-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ DSA practice
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0704-binary-search) |
@@ -113,4 +115,12 @@ DSA practice
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0567-permutation-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
