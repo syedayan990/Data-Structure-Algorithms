@@ -10,6 +10,7 @@ DSA practice
 | [0013-roman-to-integer](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@ DSA practice
 | [0013-roman-to-integer](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0204-count-primes) |
+| [2965-find-missing-and-repeated-values](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@ DSA practice
 | [0540-single-element-in-a-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,4 +140,5 @@ DSA practice
 | [0054-spiral-matrix](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
