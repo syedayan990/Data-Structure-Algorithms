@@ -20,6 +20,7 @@ DSA practice
 | [0013-roman-to-integer](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -110,10 +111,12 @@ DSA practice
 | [0053-maximum-subarray](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,4 +160,8 @@ DSA practice
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
