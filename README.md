@@ -44,6 +44,7 @@ DSA practice
 | [0031-next-permutation](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
@@ -177,6 +178,7 @@ DSA practice
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0078-subsets) |
