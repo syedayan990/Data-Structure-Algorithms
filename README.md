@@ -29,6 +29,7 @@ DSA practice
 | [0013-roman-to-integer](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0443-string-compression) |
@@ -118,6 +119,7 @@ DSA practice
 | [0053-maximum-subarray](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -183,4 +185,5 @@ DSA practice
 | [0051-n-queens](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
