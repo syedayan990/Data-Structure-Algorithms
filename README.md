@@ -67,6 +67,7 @@ DSA practice
 | [0560-subarray-sum-equals-k](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2596-check-knight-tour-configuration](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -146,6 +147,7 @@ DSA practice
 | ------- |
 | [0054-spiral-matrix](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,6 +167,7 @@ DSA practice
 | [0054-spiral-matrix](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -186,4 +189,12 @@ DSA practice
 | [0078-subsets](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
