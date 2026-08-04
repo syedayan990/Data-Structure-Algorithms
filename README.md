@@ -126,6 +126,7 @@ DSA practice
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -197,4 +198,8 @@ DSA practice
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2596-check-knight-tour-configuration) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
