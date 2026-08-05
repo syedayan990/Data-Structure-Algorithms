@@ -49,14 +49,12 @@ public:
         // }
         // return newHead;
 
-          if(head == NULL)
+        if (head == NULL)
             return NULL;
 
         Node* curr = head;
 
-        // Step 1: Insert copied nodes
-        while(curr != NULL)
-        {
+        while (curr != NULL) {
             Node* copy = new Node(curr->val);
 
             copy->next = curr->next;
@@ -65,27 +63,22 @@ public:
             curr = copy->next;
         }
 
-        // Step 2: Set random pointers
         curr = head;
 
-        while(curr != NULL)
-        {
-            if(curr->random != NULL)
-            {
+        while (curr != NULL) {
+            if (curr->random != NULL) {
                 curr->next->random = curr->random->next;
             }
 
             curr = curr->next->next;
         }
 
-        // Step 3: Separate the lists
         Node* dummy = new Node(-1);
         Node* copyTail = dummy;
 
         curr = head;
 
-        while(curr != NULL)
-        {
+        while (curr != NULL) {
             Node* copy = curr->next;
 
             curr->next = copy->next;
