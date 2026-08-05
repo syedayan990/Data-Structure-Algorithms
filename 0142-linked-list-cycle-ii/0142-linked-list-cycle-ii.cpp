@@ -25,10 +25,13 @@ public:
             return NULL;
         }
         slow = head;
+        // ListNode* prev = NULL;   // remove cycle
         while(slow != fast){
             slow = slow->next;
+            // prev = fast; // remove cycle
             fast = fast->next;
         }
+        // prev->next = NULL;// remove cycle
         return slow;
     }
 };
