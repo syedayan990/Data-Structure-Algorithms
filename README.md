@@ -130,6 +130,7 @@ DSA practice
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0509-fibonacci-number) |
@@ -206,6 +207,7 @@ DSA practice
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0206-reverse-linked-list) |
