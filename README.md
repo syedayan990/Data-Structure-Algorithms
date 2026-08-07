@@ -229,4 +229,8 @@ DSA practice
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
