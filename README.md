@@ -13,6 +13,7 @@ DSA practice
 | [0141-linked-list-cycle](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
@@ -66,6 +67,7 @@ DSA practice
 | [0238-product-of-array-except-self](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0704-binary-search) |
@@ -151,6 +153,7 @@ DSA practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -233,4 +236,8 @@ DSA practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
