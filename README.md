@@ -69,6 +69,7 @@ DSA practice
 | [0240-search-a-2d-matrix-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0704-binary-search) |
@@ -157,6 +158,7 @@ DSA practice
 | [0084-largest-rectangle-in-histogram](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -244,6 +246,7 @@ DSA practice
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
