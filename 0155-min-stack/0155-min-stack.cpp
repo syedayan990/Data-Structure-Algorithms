@@ -1,32 +1,80 @@
 class MinStack {
 public:
 
-    stack<pair<int , int>> s;
+
+// for SC-0(2*n);
+// stack<pair<int , int>> s;
+//     MinStack() {
+        
+//     }
+    
+//     void push(int val) {
+//         if(s.empty()){
+//             s.push({val , val});
+//         }else{
+//             int minVal = min(val , s.top().second);
+//             s.push({val , minVal});
+//         }
+    
+        
+//     }
+    
+//     void pop() {
+//         s.pop();
+//     }
+    
+//     int top() {
+//        return s.top().first;
+//     }
+    
+//     int getMin() {
+//        return s.top().second;
+
+
+
+
+// for SC -- 0(n);
+
+   stack<long long int> st;
+   long long int minVal;
+
     MinStack() {
         
     }
     
-    void push(int val) {
-        if(s.empty()){
-            s.push({val , val});
+    void push(int value) {
+        if(st.empty()){
+            st.push(value);
+            minVal = value;
         }else{
-            int minVal = min(val , s.top().second);
-            s.push({val , minVal});
+        if(value < minVal){
+            st.push((long long)2*value - minVal);
+            minVal = value;
+        }else{
+            st.push(value);
         }
-    
-        
+        }
     }
     
     void pop() {
-        s.pop();
+        if(st.top() < minVal){
+            minVal = 2*minVal - st.top(); 
+        }
+        st.pop();
+        
     }
     
     int top() {
-       return s.top().first;
+        if(st.top() < minVal){
+            return minVal;
+        }else{
+            return st.top();
+        }
+        
     }
     
     int getMin() {
-       return s.top().second;
+     return minVal;   
     }
 };
 
