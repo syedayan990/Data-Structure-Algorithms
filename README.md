@@ -71,6 +71,7 @@ DSA practice
 | [0169-majority-element](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -181,6 +182,7 @@ DSA practice
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0567-permutation-in-string) |
 ## Enumeration
 |  |
@@ -273,10 +275,20 @@ DSA practice
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
