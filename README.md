@@ -230,6 +230,7 @@ DSA practice
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0100-same-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0572-subtree-of-another-tree) |
@@ -305,6 +306,7 @@ DSA practice
 | ------- |
 | [0100-same-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -312,6 +314,7 @@ DSA practice
 | ------- |
 | [0100-same-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
@@ -326,4 +329,12 @@ DSA practice
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0572-subtree-of-another-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
