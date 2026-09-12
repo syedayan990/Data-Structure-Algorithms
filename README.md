@@ -9,6 +9,7 @@ DSA practice
 | [0001-two-sum](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0142-linked-list-cycle-ii) |
@@ -65,6 +66,7 @@ DSA practice
 | [0084-largest-rectangle-in-histogram](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0134-gas-station) |
@@ -156,6 +158,7 @@ DSA practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
@@ -301,12 +304,14 @@ DSA practice
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
