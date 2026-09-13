@@ -173,6 +173,7 @@ DSA practice
 | [0020-valid-parentheses](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0232-implement-queue-using-stacks) |
@@ -231,6 +232,7 @@ DSA practice
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
@@ -309,6 +311,7 @@ DSA practice
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -319,6 +322,7 @@ DSA practice
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
