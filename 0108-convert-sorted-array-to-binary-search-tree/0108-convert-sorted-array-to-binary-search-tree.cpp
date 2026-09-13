@@ -10,7 +10,7 @@
  * right(right) {}
  * };
  */
-class Solution {
+class Solution {//0(n)
 public:
     TreeNode* Helper(vector<int>& nums, int st, int end) {
         if (st > end) {
