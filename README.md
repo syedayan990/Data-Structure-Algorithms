@@ -245,12 +245,14 @@ DSA practice
 | [0543-diameter-of-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0100-same-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
@@ -328,6 +330,7 @@ DSA practice
 | [0543-diameter-of-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -342,6 +345,7 @@ DSA practice
 | [0543-diameter-of-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## DP on Trees
 |  |
 | ------- |
@@ -367,4 +371,5 @@ DSA practice
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
