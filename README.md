@@ -179,6 +179,7 @@ DSA practice
 | [0094-binary-tree-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -300,6 +301,7 @@ DSA practice
 | ------- |
 | [0146-lru-cache](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 ## Range Minimum/Maximum Query
@@ -332,6 +334,7 @@ DSA practice
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -351,6 +354,7 @@ DSA practice
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -388,8 +392,13 @@ DSA practice
 | [0098-validate-binary-search-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
