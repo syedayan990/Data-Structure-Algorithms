@@ -152,6 +152,7 @@ DSA practice
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Recursion
 |  |
 | ------- |
@@ -265,6 +266,7 @@ DSA practice
 | [0662-maximum-width-of-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2596-check-knight-tour-configuration](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -278,6 +280,7 @@ DSA practice
 | [0662-maximum-width-of-binary-tree](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
@@ -341,6 +344,7 @@ DSA practice
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0239-sliding-window-maximum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -436,6 +440,7 @@ DSA practice
 | [0207-course-schedule](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -462,4 +467,8 @@ DSA practice
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
