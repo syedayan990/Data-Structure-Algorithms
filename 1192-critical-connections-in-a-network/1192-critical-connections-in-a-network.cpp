@@ -6,7 +6,7 @@ public:
 
     void dfs(int u, int partU, vector<vector<int>>& adj,
              vector<vector<int>>& criticalConnection) {
-       
+
         dt[u] = low[u] = ++time;
 
         for (int i = 0; i < adj[u].size(); i++) {
@@ -19,10 +19,10 @@ public:
 
                 // Bridge
                 if (low[v] > dt[u]) {
-                     criticalConnection.push_back({u , v});
+                    criticalConnection.push_back({u, v});
                 }
 
-            } else if (v != partU){
+            } else if (v != partU) {
                 low[u] = min(low[u], dt[v]);
             }
         }
@@ -38,14 +38,14 @@ public:
             adj[v].push_back(u);
         }
         time = 0;
-        dt.resize(n , -1);
+        dt.resize(n, -1);
         low.resize(n);
 
         vector<vector<int>> bridges;
 
-        for(int i=0; i<n; i++){
-            if(dt[i] == -1){
-                dfs(i, -1 , adj , bridges);
+        for (int i = 0; i < n; i++) {
+            if (dt[i] == -1) {
+                dfs(i, -1, adj, bridges);
             }
         }
         return bridges;
