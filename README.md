@@ -484,4 +484,12 @@ DSA practice
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/1192-critical-connections-in-a-network) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
