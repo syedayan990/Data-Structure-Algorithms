@@ -75,6 +75,7 @@ DSA practice
 | [0134-gas-station](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0238-product-of-array-except-self) |
@@ -153,6 +154,7 @@ DSA practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Recursion
