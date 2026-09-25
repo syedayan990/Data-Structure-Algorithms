@@ -27,6 +27,7 @@ DSA practice
 | [0009-palindrome-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
@@ -148,6 +149,7 @@ DSA practice
 | ------- |
 | [0042-trapping-rain-water](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0131-palindrome-partitioning) |
@@ -231,6 +233,7 @@ DSA practice
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/syedayan990/Data-Structure-Algorithms/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
