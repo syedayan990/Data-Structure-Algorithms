@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    bool searchInRow(vector<vector<int>>& matrix, int target , int row){
+    bool searchInRow(vector<vector<int>>& matrix, int target , int row){ // TC - 0(logn)
         // int m = matrix.size();
         int n = matrix[0].size();
 
@@ -21,7 +21,7 @@ public:
         return false;
     }
 
-    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+    bool searchMatrix(vector<vector<int>>& matrix, int target) { // tc - 0(logm)
       int m = matrix.size();
       int n = matrix[0].size();
 
